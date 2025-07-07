@@ -1,0 +1,1 @@
+hexo.extend.injector.register('head_end', '<script async defer data-website-id="<f7510ae7-1ae6-4e4e-97c7-c301c09e6a5d>" src="<https://umamifm.netlify.app/share/nFsE06FezPLst7Lk/fmoemmm.netlify.app>"></script>');
